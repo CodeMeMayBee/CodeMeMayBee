@@ -3,17 +3,29 @@
 
 <img align="center" alt="coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **a Tech E-commerce Website**
-- 🌱 I’m currently learning **ReactJS, Tailwind CSS, Node.js**
-- 👨‍💻 All of my projects are available at [my portfolio](https://your-portfolio-link.com)
-- 💬 Ask me about **HTML, CSS, JavaScript, Git**
-- 📫 How to reach me: **your.email@example.com**
+- 💻 I'm a Frontend Developer based in Vietnam  
+- 🎯 Passionate about **UI/UX design**, **web performance**, and building intuitive user experiences  
+- 🌱 Currently diving deeper into **ReactJS**, **Tailwind CSS**, and **Node.js**
+- 🔍 Always exploring new tech and tools to sharpen my skills
+- 🧠 I enjoy learning by doing — side projects are my favorite way to grow
+- 🚀 My goal is to become a **Fullstack Developer** with strong fundamentals
+- ☕ I code best with a cup of coffee and lo-fi beats in the background
+- 🌐 I love contributing to open-source and collaborating with like-minded developers
+- > 💡 _"Always building, always learning."_
+- > 💡 _"Clean code. Clean UI. Clear mind."_
+- > 🧠 _"Code is not just logic, it's empathy for the user."_  
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,vscode,git" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Frontend+Developer;ReactJS+%7C+TailwindCSS+%7C+Node.js;Loves+Clean+UI+and+Coffee" />
 </p>
 
 ---
