@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duy Nguyễn</h1>
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **a Tech E-commerce Website**
 - 🌱 I’m currently learning **ReactJS, Tailwind CSS, Node.js**
