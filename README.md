@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Vietnam</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="80%" loading="lazy">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="100%" loading="lazy">
 </p>
 
 ---
@@ -56,5 +56,5 @@
 ---
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/vavktvjcvLB1blh5HV/giphy.gif" alt="coding-gif-2" width="80%" loading="lazy" />
+  <img src="https://media2.giphy.com/media/vavktvjcvLB1blh5HV/giphy.gif" alt="coding-gif-2" width="100%" loading="lazy" />
 </p>
