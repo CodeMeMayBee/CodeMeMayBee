@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=CodeMeMayBee&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="45%" height="180px" src="https://streak-stats.demolab.com/?user=CodeMeMayBee&theme=tokyonight&type=png&t=123456" alt="GitHub Streak"/>
+<!--   <img width="45%" height="180px" src="https://streak-stats.demolab.com/?user=CodeMeMayBee&theme=tokyonight&type=png&t=123456" alt="GitHub Streak"/> -->
 </p>
 
 ---
