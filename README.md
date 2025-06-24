@@ -39,9 +39,11 @@
 ---
 
 ### 🔗 Connect with me:
-<p>
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://img.icons8.com/color/30/gmail--v1.png" alt="gmail" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" /></a>
+  <a href="mailto:your.email@example.com">
+    <img align="center" src="https://img.icons8.com/color/30/gmail--v1.png" alt="gmail" /></a>
 </p>
 
-<img align="center" alt="coding" width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VudWs5b3V0eTFvazRiMnFpa3ozYjFkaDNjNDYydmVmcnRlczNvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vavktvjcvLB1blh5HV/giphy.gif">
+<img margin-top="10px" align="center" alt="coding" width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VudWs5b3V0eTFvazRiMnFpa3ozYjFkaDNjNDYydmVmcnRlczNvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vavktvjcvLB1blh5HV/giphy.gif">
