@@ -37,20 +37,34 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
+<<<<<<< HEAD
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CodeMeMayBee&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats"/>
     <img width="45%" src="https://streak-stats.demolab.com/?user=CodeMeMayBee&theme=tokyonight&type=png&t=123456" alt="GitHub Streak"/>
+=======
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CodeMeMayBee&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats"/>
+  <img width="45%" src="https://streak-stats.demolab.com/?user=CodeMeMayBee&theme=tokyonight&type=png&t=123456" alt="GitHub Streak"/>
+>>>>>>> ed600589a83c46a3ed7d5206e76bcb4bd92f9323
 </p>
 
 ---
 
 ### 🔗 Connect with me:
 <p align="center">
+<<<<<<< HEAD
     <a href="https://linkedin.com/in/yourprofile" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
     </a>
     <a href="mailto:codememaybe04.com">
         <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" />
     </a>
+=======
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+  </a>
+  <a href="mailto:codememaybe04.com">
+    <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" />
+  </a>
+>>>>>>> ed600589a83c46a3ed7d5206e76bcb4bd92f9323
 </p>
 
 ---
