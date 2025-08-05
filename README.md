@@ -1,74 +1,70 @@
-<h1 align="center">Hi 👋, I'm Duy Nguyễn</h1>
-<h3 align="center">A passionate Frontend Developer from Vietnam</h3>
+<h1 align="center">👋 Hi, I'm Duy Nguyễn</h1>
+<h3 align="center">🌿 Frontend Developer | UI/UX Enthusiast | Coffee & Code ☕</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="100%" loading="lazy">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="coding" />
 </p>
 
 ---
 
-- 💻 I'm a Frontend Developer based in Vietnam  
-- 🎯 Passionate about **UI/UX design**, **web performance**, and building intuitive user experiences  
-- 🌱 Currently diving deeper into **ReactJS**, **Tailwind CSS**, and **Node.js**
-- 🔍 Always exploring new tech and tools to sharpen my skills  
-- 🧠 I enjoy learning by doing — side projects are my favorite way to grow  
-- 🚀 My goal is to become a **Fullstack Developer** with strong fundamentals  
-- ☕ I code best with a cup of coffee and lo-fi beats in the background  
-- 🌐 I love contributing to open-source and collaborating with like-minded developers  
+### ✨ About Me
 
-> 💡 _"Always building, always learning."_  
-> 💡 _"Clean code. Clean UI. Clear mind."_  
-> 🧠 _"Code is not just logic, it's empathy for the user."_  
+- 💻 Frontend Developer based in **Vietnam**
+- 🌱 Currently mastering **ReactJS**, **Tailwind CSS**, and **Node.js**
+- 🎯 Passionate about **UI/UX**, web performance & clean code
+- ⚙️ Obsessed with detail, animations & seamless user experience
+- 🎨 Turning designs into real, responsive, beautiful interfaces
+- 🚀 On my way to become a **Fullstack Developer**
+- ☕ Fueled by coffee and lo-fi beats 🎧
+
+> 💡 _“Clean UI. Clean Code. Clear Mind.”_  
+> 💭 _“Design is intelligence made visible.”_  
+> 🔁 _“Always Building. Always Learning.”_
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack
+
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,vite,git,vscode" alt="tech stack" />
 </p>
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Frontend+Developer;ReactJS+%7C+TailwindCSS+%7C+Node.js;Loves+Clean+UI+and+Coffee" alt="typing-svg" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeMeMayBee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=CodeMeMayBee&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMeMayBee&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### ⌨️ Typing SVG
+
 <p align="center">
-<<<<<<< HEAD
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CodeMeMayBee&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats"/>
-    <img width="45%" src="https://streak-stats.demolab.com/?user=CodeMeMayBee&theme=tokyonight&type=png&t=123456" alt="GitHub Streak"/>
-=======
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CodeMeMayBee&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="45%" src="https://streak-stats.demolab.com/?user=CodeMeMayBee&theme=tokyonight&type=png&t=123456" alt="GitHub Streak"/>
->>>>>>> ed600589a83c46a3ed7d5206e76bcb4bd92f9323
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&vCenter=true&width=500&lines=Frontend+Developer;ReactJS+%7C+TailwindCSS+%7C+Node.js;Loves+Beautiful+UI+and+Coffee;Always+Building+and+Learning" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect With Me
+
 <p align="center">
-<<<<<<< HEAD
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
-    </a>
-    <a href="mailto:codememaybe04.com">
-        <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" />
-    </a>
-=======
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:codememaybe04.com">
-    <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" />
+  <a href="mailto:codememaybee04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
->>>>>>> ed600589a83c46a3ed7d5206e76bcb4bd92f9323
 </p>
 
 ---
 
 <p align="center">
-    <img src="https://media2.giphy.com/media/vavktvjcvLB1blh5HV/giphy.gif" alt="coding-gif-2" width="100%" loading="lazy" />
+  <img src="https://media2.giphy.com/media/vavktvjcvLB1blh5HV/giphy.gif" width="80%" alt="fun footer gif" />
 </p>
