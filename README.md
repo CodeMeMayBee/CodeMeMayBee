@@ -2,7 +2,7 @@
 <h3 align="center">🌿 Frontend Developer | UI/UX Enthusiast | Coffee & Code ☕</h3>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" loading="lazy" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhjY2hucTF2bHRkcGFscHZzbDZwOW5sNXRsOTA4aDB5bHI0ZTc5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" loading="lazy" />
 </p>
 
 ---
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-    <img src="https://media2.giphy.com/media/vavktvjcvLB1blh5HV/giphy.gif" width="100%" alt="Fun Footer Gif" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdjMGRvZW9idmczajVic3Z5NXBtam04dnIzZDNzOW9xN3dtdG10OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vavktvjcvLB1blh5HV/giphy.gif" width="100%" alt="Fun Footer Gif" />
 </p>
