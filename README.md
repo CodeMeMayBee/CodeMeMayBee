@@ -75,6 +75,7 @@
 ### Activity 👩‍💻
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NguyenDuy04&theme=tokyonight&hide_border=true)
 
 ---
 
