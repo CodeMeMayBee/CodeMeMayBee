@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hi, I'm Duy Nguyễn</h1>
+<h1 align="center">👋 Hi, I'm Nguyễn Duy</h1>
 <h3 align="center">🌿 Frontend Developer | UI/UX Enthusiast | Coffee & Code ☕</h3>
+
+---
 
 <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" loading="lazy" />
@@ -14,7 +16,7 @@
 - 🎯 Passionate about **UI/UX**, web performance & clean code
 - ⚙️ Obsessed with detail, animations & seamless user experience
 - 🎨 Turning designs into real, responsive, beautiful interfaces
-- 🚀 On my way to become a **Fullstack Developer**
+- 🚀 On my way to becoming a **Fullstack Developer**
 - ☕ Fueled by coffee and lo-fi beats 🎧
 
 > 💡 _“Clean UI. Clean Code. Clear Mind.”_  
@@ -54,15 +56,35 @@
 
 ### 🔗 Connect With Me
 
-<div align="center">
+<div align="center">    
     <a href="https://linkedin.com/in/yourprofile" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <p><b>(.-.)</b></p>
+    <span><b>(.-.)</b></span>
     <a href="mailto:codememaybee04@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <span><b>(.-.)</b></span>
+    <a href="https://www.facebook.com/duypinky.trc/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
 </p>
+
+---
+
+### Insights ✨
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=208637913" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=208637913&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @CodeMeMayBee" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=208637913&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+---
+
+## Activity 👩‍💻
+
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=CodeMeMayBee&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
 
 ---
 
