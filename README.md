@@ -35,14 +35,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=CodeMeMayBee&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49%" src="https://streak-stats.demolab.com/?user=CodeMeMayBee&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMeMayBee&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NguyenDuy04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
@@ -57,16 +53,10 @@
 ### 🔗 Connect With Me
 
 <div align="center">    
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <span><b>(.-.)</b></span>
-    <a href="mailto:codememaybee04@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <span><b>(.-.)</b></span>
-    <a href="https://www.facebook.com/duypinky.trc/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-</p>
+<a href="https://linkedin.com/in/yourprofile" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:duynguyenvan.1506@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.facebook.com/duypinky.trc/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
+</div>
 
 ---
 
@@ -82,9 +72,9 @@
 
 ---
 
-## Activity 👩‍💻
+### Activity 👩‍💻
 
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=CodeMeMayBee&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
 
 ---
 
