@@ -75,11 +75,11 @@
 ### Activity 👩‍💻
 
 <p align="center">
-    ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NguyenDuy04&theme=tokyonight&hide_border=true)
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenDuy04&theme=tokyonight&hide_border=true />
 </p>
 
 ---
