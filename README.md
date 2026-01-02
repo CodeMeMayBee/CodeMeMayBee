@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NguyenDuy04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=NguyenDuy04&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -53,9 +53,9 @@
 ### 🔗 Connect With Me
 
 <div align="center">    
-<a href="https://linkedin.com/in/yourprofile" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:duynguyenvan.1506@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.facebook.com/duypinky.trc/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:duynguyenvan.1506@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.facebook.com/duypinky.trc/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
 </div>
 
 ---
@@ -63,10 +63,10 @@
 ### Insights ✨
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=208637913" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=208637913&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @CodeMeMayBee" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=208637913&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
+      <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=208637913&image_size=auto&color_scheme=dark" width="771" height="auto">
+            <img alt="Dashboard stats of @CodeMeMayBee" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=208637913&image_size=auto&color_scheme=light" width="771" height="auto">
+      </picture>
 </a>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
@@ -74,8 +74,13 @@
 
 ### Activity 👩‍💻
 
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NguyenDuy04&theme=tokyonight&hide_border=true)
+<p align="center">
+    ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=NguyenDuy04&count_private=true&show_icons=true&locale=en&layout=pie&theme=tokyonight&hide_border=true)
+</p>
+
+<p align="center">
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NguyenDuy04&theme=tokyonight&hide_border=true)
+</p>
 
 ---
 
